@@ -9,6 +9,8 @@ A modern Snake game built with Java Swing, featuring smooth visuals, progressive
 1. Download `SnakeGame-windows.zip` from the link above
 2. Extract the zip
 3. Double-click `SnakeGame.exe` — that's it
+   OR
+Download the jar file https://github.com/ritvikpdev/Snake_Game/blob/main/SnakeGame.jar and just run it.
 
 ---
 
@@ -43,18 +45,7 @@ A modern Snake game built with Java Swing, featuring smooth visuals, progressive
 
 ## Running the Game
 
-### Option 1 — Pre-built Windows EXE (easiest)
-
-No Java installation required.
-
-1. Open the `output/SnakeGame/` folder
-2. Double-click **`SnakeGame.exe`**
-
-To share the game, zip the entire `output/SnakeGame/` folder and send it.
-
----
-
-### Option 2 — Run from source (requires Java 8+)
+### Option 1 — Run from source (requires Java 8+)
 
 **Compile:**
 ```bash
@@ -68,7 +59,7 @@ java -cp bin SnakeGame
 
 ---
 
-### Option 3 — Run the JAR (requires Java 8+)
+### Option 2 — Run the JAR (requires Java 8+)
 
 **Create the JAR:**
 ```bash
