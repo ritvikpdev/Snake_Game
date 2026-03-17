@@ -1,0 +1,19 @@
+# Compiled class files
+bin/
+
+# Build output (pre-built exe — distributed via GitHub Releases)
+output/
+
+# Runnable JAR
+SnakeGame.jar
+
+# Player data
+highscore.txt
+
+# Eclipse project files
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
